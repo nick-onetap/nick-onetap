@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nick-onetap
-- 👀 I’m interested in gamba
+- 👀 I’m interested in web/app development
 
 Just a freelance programmer
 
