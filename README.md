@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nick-onetap
 - 👀 I’m interested in web/app development
+- 🐍 Python
 
 Just a freelance programmer
 
