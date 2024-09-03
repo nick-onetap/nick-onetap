@@ -2,6 +2,7 @@
 - 👀 I’m interested in web/app development
 - 🐍 Python
 - 🥶 Web Development
+- 🦄 Part-time Game Dev
 
 Just a freelance programmer
 
