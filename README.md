@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nick-onetap
 - 👀 I’m interested in web/app development
-- 🐍 Python
+- 🐍 Python & 🦀 Rust
 - 🥶 Web Development
 - 🦄 Part-time Game Dev
 
